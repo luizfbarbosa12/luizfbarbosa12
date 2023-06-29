@@ -15,11 +15,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
-
 <h1 align="left">Hi 👋, I'm Luiz</h1>
 <h3 align="left">A creative Frontend Developer from Brazil</h3>
 
-###
 ## 🚀 About Me
 <p>I'm a multiartist going through the world taking my knowledge, my creativity and skills along with me. I've been working on some code, building stuff for other people and I'm currently working on making all that look pretty
 All of my latest projects were designed, prototyped and coded by me and you can check all of them here.
@@ -33,11 +31,6 @@ I'm an expert in Design Systems and have been working with Frontend for 3 years 
 ### 
 
 <h1>Tech Stack</h1>
-
-| Frontend | Backend     | Languages                         |
-| :--------| :-------    | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch   |
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
