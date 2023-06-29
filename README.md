@@ -74,13 +74,13 @@ I'm an expert in Design Systems and have been working with Frontend for 3 years 
 </tr></table>
 
 ###
-
+<h1>Contact me!</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/luizfbarbosa/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
  </div>
 
 
 ###
-<h1>Contact me!</h1>
+
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
