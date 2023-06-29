@@ -17,7 +17,7 @@ I'm an expert in Design Systems and have been working with Frontend for 3 years 
 
 <h1>Tech Stack</h1>
 <table align="center">
-<tr><td align="top" width="33%">
+<tr><td valign="top" width="25%">
 
   <h3 align="center">Frontend </h3>
 <div align="center">  
@@ -34,10 +34,7 @@ I'm an expert in Design Systems and have been working with Frontend for 3 years 
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="35" alt="graphql logo"  />
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
+</td><td valign="top" width="25%">
   <h3 align="center">Backend </h3>
 <div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
@@ -48,7 +45,7 @@ I'm an expert in Design Systems and have been working with Frontend for 3 years 
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
@@ -60,7 +57,7 @@ I'm an expert in Design Systems and have been working with Frontend for 3 years 
 </div>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 
 
