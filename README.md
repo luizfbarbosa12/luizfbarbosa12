@@ -81,6 +81,6 @@ I'm an expert in Design Systems and have been working with Frontend for 3 years 
 
 
 ###
-
+<h1>Contact me!</h1>
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
