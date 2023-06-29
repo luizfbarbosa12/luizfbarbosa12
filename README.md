@@ -1,10 +1,10 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-<h1 align="left">Hi 👋, I'm Luiz</h1>
+<h1 align="left">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Luiz</h1>
 <h3 align="left">A creative Frontend Developer from Brazil</h3>
 
 ## 🚀 About Me
-<p>I'm a multiartist going through the world taking my knowledge, my creativity and skills along with me. I've been working on some code, building stuff for other people and I'm currently working on making all that look pretty
+<p>I'm a multiartist going through the world taking my knowledge, my creativity and skills along with me. I've been working on some code, building stuff for other people and I'm currently working on making all that look pretty.
 All of my latest projects were designed, prototyped and coded by me and you can check all of them here.
 I'm an expert in Design Systems and have been working with Frontend for 3 years now.
 </p>
@@ -15,7 +15,7 @@ I'm an expert in Design Systems and have been working with Frontend for 3 years 
 
 ### 
 
-<h1>Tech Stack</h1>
+# Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%> 
 <table align="center">
 <tr><td valign="top" width="25%">
 
