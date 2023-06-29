@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Luiz</h1>
-<h3 align="center">A creative Frontend Developer from Brazil</h3>
+<h1 align="left">Hi 👋, I'm Luiz</h1>
+<h3 align="left">A creative Frontend Developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizfbarbosa12&label=Profile%20views&color=0e75b6&style=flat" alt="luizfbarbosa12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizfbarbosa12" alt="luizfbarbosa12" /></a> </p>
 
 - 🔭 I’m currently working on [Digital Playbill](https://github.com/luizfbarbosa12/digital-playbill)
 
