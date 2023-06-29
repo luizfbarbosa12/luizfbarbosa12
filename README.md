@@ -1,6 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-<h1 align="left">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Luiz</h1>
+<h1 align="left">Hi, I'm Luiz</h1>
 <h3 align="left">A creative Frontend Developer from Brazil</h3>
 
 ## 🚀 About Me
