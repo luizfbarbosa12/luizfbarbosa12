@@ -3,6 +3,7 @@
 
 ###
 
+<p>I'm a multiartist going through the world taking my knowledge, my creativity and skills along with me. I've been working on some code, building stuff for other people and I'm currently working on making all that look pretty</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luizfbarbosa12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizfbarbosa12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
