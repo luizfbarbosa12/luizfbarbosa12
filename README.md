@@ -6,7 +6,7 @@
 ## 🚀 About Me
 <p>I'm a multiartist going through the world taking my knowledge, my creativity and skills along with me. I've been working on some code, building stuff for other people and I'm currently working on making all that look pretty.
 All of my latest projects were designed, prototyped and coded by me and you can check all of them here.
-I'm an expert in Design Systems and have been working with Frontend for 4 years now.
+I'm an expert in Design Systems and have been working with Frontend for 6 years now.
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luizfbarbosa12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
